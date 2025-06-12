@@ -80,3 +80,7 @@ a:hover {
 #contact p {
     margin-top: 3rem;
 }
+
+#contac a {
+    margin-bottom: 0;
+}
